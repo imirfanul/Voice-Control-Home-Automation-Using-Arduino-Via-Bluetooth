@@ -1,0 +1,2 @@
+This Project is about interfacing a bluetooth module with Arduino and android mobile to activate lights and fan in a room using voice control
+Testing Video Link: https://www.facebook.com/ognidipto.shurjo/videos/1448270321909000/
